@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishitakapoor7
 - 👀 I’m interested in web development and game design.
-- 🌱 I’m currently learning how to work with React.js
+- 🌱 I’m currently learning how to work with RAG pipelines!
 - 💞️ I’m looking to collaborate on any fun design ideas!
 - 📫 How to reach me: ishita.kapoor0712@gmail.com
 - 😄 Pronouns: she/her
