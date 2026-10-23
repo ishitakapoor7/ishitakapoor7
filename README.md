@@ -2,10 +2,7 @@
 
 **B.S. Computer Science & Data Science @ University of Wisconsin–Madison · May 2026**
 
-I build AI systems — agents, RAG pipelines, recommenders — and then build the evaluation
-harnesses that tell me whether they actually work. Most of my recent projects ship with a
-scoring suite attached, because a demo that looks right and a system that *is* right are
-different claims.
+I build AI agents and RAG pipelines. I also build recommenders and write evaluation code to test them.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
